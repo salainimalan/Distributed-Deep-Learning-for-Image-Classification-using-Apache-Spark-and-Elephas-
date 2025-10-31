@@ -1,0 +1,2 @@
+# Distributed Deep Learning for Image Classification using Apache Spark and Elephas 
+ This project demonstrates distributed deep learning for image classification using Apache Spark and Elephas on the Caltech-101 dataset. It integrates Spark’s parallel data processing with Elephas’s distributed Keras training to efficiently handle large-scale image data. The model achieved 71.34% accuracy, showcasing Elephas’s scalability and performance benefits in deep learning across clusters.
